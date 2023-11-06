@@ -1,8 +1,11 @@
-### 👋 Hi! Welcome to my GitHub profile, I'm Gabriel Zitelli (@gabrielzitelli)
+# 👋 Hi! Welcome to my GitHub profile, I'm Gabriel Zitelli
 
-### Some info about me
+---
+### 🎓 About me
+- Software Engineer Student at the Faculty of Engineering of the University of Buenos Aires
+- Looking to learn new skills to improve as a professional as much as possible
 
-
+---
 ### Tools I've used or I'm using
 Programming Languages:
 <div >
@@ -50,6 +53,7 @@ Other:
 	<img width="50" src="./images/Obsidian.svg" alt="Obsidian" title="Obsidian"/>
 </div>
 
+---
 ### 📊 Stats of my profile
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=gabrielzitelli&show_icons=true&theme=radical" />
