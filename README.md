@@ -14,7 +14,7 @@ Programming Languages:
 	<img width="50" src="./images/C.svg" alt="C" title="C"/>
 	<img width="50" src="./images/C Sharp.svg" alt="C#" title="C#"/>
 	<img width="50" src="./images/JavaScript.svg" alt="JavaScript" title="JavaScript"/>
-	<img width="75" src="./images/Pharo Smalltalk.png" alt="Pharo Smalltalk" title="Pharo Smalltalk"/>
+	<img width="55" src="./images/Pharo Smalltalk.png" alt="Pharo Smalltalk" title="Pharo Smalltalk"/>
 	<img width="50" src="./images/LaTeX.svg" alt="LaTeX" title="LaTeX"/>
 </div>
 
