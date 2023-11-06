@@ -6,7 +6,7 @@
 - Looking to learn new skills to improve as a professional as much as possible
 
 ---
-### Tools I've used or I'm using
+### 💻 Tools I've used or I'm using
 Programming Languages:
 <div >
 	<img width="50" src="./images/Python.svg" alt="Python" title="Python"/>
