@@ -11,7 +11,7 @@ Programming Languages:
 	<img width="50" src="./images/C.svg" alt="C" title="C"/>
 	<img width="50" src="./images/C Sharp.svg" alt="C#" title="C#"/>
 	<img width="50" src="./images/JavaScript.svg" alt="JavaScript" title="JavaScript"/>
-	<img width="50" src="./images/Pharo Smalltalk.png" alt="Pharo Smalltalk" title="Pharo Smalltalk"/>
+	<img width="75" src="./images/Pharo Smalltalk.png" alt="Pharo Smalltalk" title="Pharo Smalltalk"/>
 	<img width="50" src="./images/LaTeX.svg" alt="LaTeX" title="LaTeX"/>
 </div>
 
@@ -19,6 +19,7 @@ Technologies and Frameworks:
 <div >
 	<img width="50" src="./images/Git.svg" alt="Git" title="Git"/>
 	<img width="50" src="./images/JUnit.svg" alt="JUnit" title="JUnit"/>
+	<img width="125" src="./images/JavaFX.png" alt="JavaFX" title="JavaFX"/>
 	<img width="50" src="./images/GitHub Actions.svg" alt="GitHub Actions" title="GitHub Actions"/>
  	<img width="50" src="./images/Codecov.svg" alt="Codecov" title="Codecov"/>
 	<img width="50" src="./images/Xamarin.svg" alt="Xamarin" title="Xamarin"/>
