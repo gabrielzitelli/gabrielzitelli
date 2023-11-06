@@ -9,7 +9,7 @@ Programming Languages:
 	<img width="50" src="./images/Python.svg" alt="Python" title="Python"/>
 	<img width="50" src="./images/Java.svg" alt="Java" title="Java"/>
 	<img width="50" src="./images/C.svg" alt="C" title="C"/>
-	<img width="50" src="./images/C#.svg" alt="C#" title="C#"/>
+	<img width="50" src="./images/C Sharp.svg" alt="C#" title="C#"/>
 	<img width="50" src="./images/JavaScript.svg" alt="JavaScript" title="JavaScript"/>
 	<img width="50" src="./images/Pharo Smalltalk.png" alt="Pharo Smalltalk" title="Pharo Smalltalk"/>
 	<img width="50" src="./images/LaTeX.svg" alt="LaTeX" title="LaTeX"/>
