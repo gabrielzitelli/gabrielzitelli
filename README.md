@@ -56,6 +56,6 @@ Other:
 ---
 ### 📊 Stats of my profile
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=gabrielzitelli&show_icons=true&theme=radical" />
+<img align="left" width="50%" src="https://github-readme-stats-gabriel-zitellis-projects.vercel.app/api?username=gabrielzitelli&show_icons=true&theme=radical" />
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielzitelli&layout=compact" />
